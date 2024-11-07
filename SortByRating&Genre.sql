@@ -1,5 +1,5 @@
 Select Rank, Title, Rating
-From dbo.[IMDB-Movie-Data] 
+From [IMDB-Movies].dbo.[IMDB-Movie-Data] 
 Where Genre Like '%[Enter Genre]%' 
 and Rating > '0' 
 
