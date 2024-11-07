@@ -1,1 +1,1 @@
-Select * from dbo.[IMDB-Movie-Data]
+Select * from [IMDB-Movies].dbo.[IMDB-Movie-Data] 
